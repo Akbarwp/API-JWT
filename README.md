@@ -7,6 +7,7 @@ Login Register JWT ReactJS is a website that provides login and registration fea
 - **Laravel 9**
 - **MySQL Database**
 - **ReactJS - Create React App**
+- **[tymon/jwt-auth](https://jwt-auth.readthedocs.io/en/develop/laravel-installation/)**
 
 ## Features
 
